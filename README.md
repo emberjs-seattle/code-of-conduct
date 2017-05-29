@@ -35,6 +35,10 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, Meetup Organizers may take any action they deem appropriate, up to and including expulsion from all EmberJS Seattle spaces and identification of the participant as a harasser to other EmberJS Seattle members or the general public.
 
+## Additional Reading
+
+Please read through the [Ember.js Project Community Guidelines](https://emberjs.com/guidelines/) for a more detailed overview of the intent and goals of the Ember community at large. We stand by the principles of the community CoC and consider them part of our CoC as well.
+
 ## Attribution
 
-This anti-harassment policy is based on the [example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) from the Geek Feminism wiki, created by the Geek Feminism community.
+This anti-harassment policy is based on the [example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) from the Geek Feminism wiki, as well as the [EmberConf Code of Conduct](http://emberconf.com/code-of-conduct.html).
